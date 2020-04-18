@@ -8,15 +8,9 @@ const ContactPage = () => {
     <Layout>
       <Head title="Contact" />
       <h1>Contact Me</h1>
-      <a href="mailto:justsomerandomemail@mail.com">
-        justsomerandomemail@yahoo.com
-      </a>
-      <div>
-        My Twitter:{" "}
-        <a href="https://twitter.com/" target="_blank">
-          @my_twitter
-        </a>
-      </div>
+      <p>
+        <em>This page is under construction</em>
+      </p>
     </Layout>
   );
 };
