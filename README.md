@@ -1,4 +1,5 @@
 This is a very simple, bare-bones Gatsby starter theme working with [Contentful API](https://app.contentful.com/)
+[Click here for Netlify demo page](https://sad-ardinghelli-b8960a.netlify.app)
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
